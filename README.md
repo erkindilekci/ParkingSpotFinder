@@ -9,7 +9,6 @@
 - MVVM
 - Clean Architecture
 
-
 ## UI
 <div align="center">
   <img src="https://raw.githubusercontent.com/erkindil/GithubRepositoryEdit/main/psb1.png" width="200">
